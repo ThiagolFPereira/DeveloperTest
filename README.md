@@ -21,6 +21,12 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Iniciar o Projeto
+
+Arquivo .env necessário para configurar os dados do banco de dados
+Rodar o comando no terminal php artisan migrate (irá criar o banco de dados e suas tabelas)
+Posteriormente php artisan serve --port=algumaPorta O servidor irá iniciar
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
