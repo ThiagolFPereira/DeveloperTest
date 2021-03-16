@@ -24,7 +24,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Iniciar o Projeto
 
 Arquivo .env necessário para configurar os dados do banco de dados
+
+
 Rodar o comando no terminal php artisan migrate (irá criar o banco de dados e suas tabelas)
+
+
 Posteriormente php artisan serve --port=algumaPorta O servidor irá iniciar
 
 ## Learning Laravel
